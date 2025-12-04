@@ -2,4 +2,5 @@
 #!UPDATE-URL=https://your-server.com/subscription.txt
 #!LAST-UPDATE=2024-01-15T12:00:00Z
 
+
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.106.64:4248?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%2312
