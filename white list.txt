@@ -4,4 +4,3 @@
 
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.106.64:4248?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%2312
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.39:4248?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%2313
-vless://2f0e01f3-8c74-458e-a474-b4aa4ac879aa@51.250.21.113:7443?security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23800
